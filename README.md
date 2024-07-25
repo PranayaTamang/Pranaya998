@@ -11,7 +11,7 @@
 
 > Tools and Languages that I work with.
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,js,pr,ps,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,html,css,js,pr,ps,flutter,Quality assurance)](https://skillicons.dev)
 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranaya998&theme=gruvbox" alt="Pranaya998" /></p>
