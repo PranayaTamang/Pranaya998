@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranaya998&label=Profile%20views&color=0e75b6&style=flat" alt="Pranaya998" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pranaya998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Next.js** — the React Framework for Production 🚀
 - 👨‍💻 All of my projects are available at **Github**
 
 <h2 align="left" id="my-tech">Favorite Tech</h2>
